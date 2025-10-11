@@ -1,0 +1,28 @@
+{
+  "name": "newtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jomm31/newtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jomm31/newtest/issues"
+  },
+  "homepage": "https://github.com/Jomm31/newtest#readme",
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.28.0"
+  }
+}
